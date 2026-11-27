@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-27T14:03:57.730Z",
+  "updated_at": "2026-11-27T21:02:29.663Z",
   "scores": [
     {
       "player_key": "ad86b971e17ebd8f2a3839434492731b",
@@ -25,6 +25,12 @@
       "name": "Tester",
       "score": 1,
       "date": "2026-11-27T10:54:42.245Z"
+    },
+    {
+      "player_key": "33a739e1205be6780fd9390a746267a0",
+      "name": "yugi",
+      "score": 1,
+      "date": "2026-11-27T21:02:29.663Z"
     }
   ]
 }
