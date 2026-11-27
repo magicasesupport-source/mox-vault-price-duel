@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-27T09:15:48.376Z",
+  "updated_at": "2026-11-27T10:54:42.245Z",
   "scores": [
     {
       "player_key": "ad86b971e17ebd8f2a3839434492731b",
@@ -13,6 +13,12 @@
       "name": "noob",
       "score": 1,
       "date": "2026-11-27T00:21:46.608Z"
+    },
+    {
+      "player_key": "e5fc0a1abad498874a0abf58feec4acd",
+      "name": "Tester",
+      "score": 1,
+      "date": "2026-11-27T10:54:42.245Z"
     }
   ]
 }
