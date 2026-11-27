@@ -1,5 +1,12 @@
 {
   "schema": 1,
-  "updated_at": "",
-  "scores": []
+  "updated_at": "2026-11-27T00:21:46.608Z",
+  "scores": [
+    {
+      "player_key": "b014e3b64ae9bcee43a360612f2867c2",
+      "name": "noob",
+      "score": 1,
+      "date": "2026-11-27T00:21:46.608Z"
+    }
+  ]
 }
