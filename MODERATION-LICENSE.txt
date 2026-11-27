@@ -1,0 +1,5 @@
+Nickname moderation lists are derived from LDNOOBW / Shutterstock and contributors, List of Dirty, Naughty, Obscene, and Otherwise Bad Words.
+Source: https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
+Pinned commit: 5faf2ba42d7b1c0977169ec3611df25a3c08eb13
+License: Creative Commons Attribution 4.0 International, https://creativecommons.org/licenses/by/4.0/ and https://creativecommons.org/licenses/by/4.0/legalcode
+Changes: merged 28 language lists, normalized accents, common confusable characters and number substitutions; removed standalone neutral identity terms. No endorsement is implied. Filters are imperfect and may produce false positives and false negatives.
