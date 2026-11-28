@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-27T21:09:13.748Z",
+  "updated_at": "2026-11-28T12:22:06.824Z",
   "scores": [
     {
       "player_key": "ad86b971e17ebd8f2a3839434492731b",
@@ -9,16 +9,16 @@
       "date": "2026-11-27T14:03:57.730Z"
     },
     {
+      "player_key": "261688ba6bdd300b2d2b2072df6066d4",
+      "name": "Saurace",
+      "score": 12,
+      "date": "2026-11-28T12:22:06.824Z"
+    },
+    {
       "player_key": "33a739e1205be6780fd9390a746267a0",
       "name": "yugi",
       "score": 8,
       "date": "2026-11-27T21:03:39.098Z"
-    },
-    {
-      "player_key": "261688ba6bdd300b2d2b2072df6066d4",
-      "name": "bub",
-      "score": 5,
-      "date": "2026-11-27T11:35:20.590Z"
     },
     {
       "player_key": "b014e3b64ae9bcee43a360612f2867c2",
